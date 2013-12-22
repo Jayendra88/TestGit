@@ -22,7 +22,7 @@ namespace TestGit
         public MainWindow()
         {
             InitializeComponent();
-            //test 1
+            //test 2
 
         }
     }
